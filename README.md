@@ -28,3 +28,13 @@ Materi:
 * Menambahkan fungsi untuk mengedit.
 * Menambahkan fungsi untuk menghapus record.
 
+## PERTEMUAN #3
+
+Target:
+* Siswa memahami konsep dasar database SQL.
+* Siswa mengetahui cara mengoperasikan alat-alat pendukung untuk bekerja dengan database.
+
+Materi:
+* Meneruskan project Sesreg dengan penambahan:
+* Menggunakan presisten database SQL untuk penyimpanan.
+* Mengoperasikan diesel cli.
